@@ -1,5 +1,5 @@
 #FUNCION
-El programa fue realizo con el fin de evitar atrasos en la empresa al momento de cotizar el seguro de sus clientes. Para ello he generado un cotizador para completar los  siguientes requisitos para aplicarles el recargo correspondiente segun las condiciones.
+El programa fue realizo con el fin de evitar atrasos en la empresa al momento de cotizar el seguro de sus clientes. Para ello he generado un cotizador  con los siguientes requisitos para aplicarles el recargo correspondiente segun las condiciones.
 
 Ingrese su edad: 
 Ingrese su nombre: 
